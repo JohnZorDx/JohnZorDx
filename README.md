@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @John
+- 👋 Hi, I’m @Jhonathan Henrique
 - 👀 I’m interested in tecnology
 - 🌱 I’m currently learning english/tecnology
 - 💞️ I’m looking to collaborate on ...
